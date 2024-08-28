@@ -35,7 +35,7 @@ Install required Python packages:
 pip install pandas matplotlib folium numpy
 
 Run Analysis:
-Open assignment_notebook.ipynb and execute the cells to perform the data analysis and create visualizations.
+Open Project file.ipynb and execute the cells to perform the data analysis and create visualizations.
 
 Submission:
 Ensure all code, visualizations, and explanations are included in the notebook.
